@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: lightgoldenrodyellow;
+}
+.title{
+display:flex;
+color:black;
+font-style: bolder;
+font-size: 70px;
+align-items: center;
+justify-content: center;
+}
+.btn{
+  display:flex;
+  font-size: 100px;
+  align-items: center; 
+  justify-content: center;
+  margin-top: 40vw;
+  padding: 20px;
+  border-radius: 20px;
+  
+}
